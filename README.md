@@ -33,5 +33,5 @@ CSE student at UIU | Aspiring AI & Machine Learning Engineer > I am passionate a
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rayhan-khan-dev&icon=0&color=0" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=rayhan-khan-dev&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
 </p>
