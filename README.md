@@ -16,3 +16,22 @@ CSE student at UIU | Aspiring AI & Machine Learning Engineer > I am passionate a
 [![](https://visitcount.itsvg.in/api?id=rayhan-khan-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📊 My GitHub Journey
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rayhan-khan-dev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rayhan's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan-khan-dev&theme=radical&hide_border=true" alt="Rayhan's Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan-khan-dev&layout=compact&theme=radical&hide_border=true" alt="Rayhan's Top Langs" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=rayhan-khan-dev&icon=0&color=0" alt="Visitor Count" />
+</p>
