@@ -1,13 +1,8 @@
-# Hi there, I'm Rayhan Khan  👋
-
+# 💫 About Me:
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rayhan-khan-dev&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
 </p>
 
-I am a passionate **Computer Science and Engineering (CSE)** student at **United International University (UIU)**, Dhaka. My journey revolves around mastering **Artificial Intelligence** and **Machine Learning** to solve real-world problems. 
-
----
-# 💫 About Me:
 CSE student at UIU | Aspiring AI & Machine Learning Engineer > I am passionate about solving real-world problems through data-driven models and mastering DSA. Currently focusing on building AI Agents and preparing for research in high-impact journals.
 
 
