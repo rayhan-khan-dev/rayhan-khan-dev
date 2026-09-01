@@ -164,15 +164,6 @@
 ---
 
 
-<div align="center">
-
-### Don't just learn technology. Build with it.
-
-### Learn → Build → Break → Debug → Research → Improve → Repeat
-
-</div>
-
-
 ## 🎯 Current Focus
 
 ### - 🤖 Building **AI Agents & intelligent AI systems**
@@ -286,3 +277,12 @@
 </p>
 
 ---
+
+
+<div align="center">
+
+### Don't just learn technology. Build with it.
+
+### Learn → Build → Break → Debug → Research → Improve → Repeat
+
+</div>
