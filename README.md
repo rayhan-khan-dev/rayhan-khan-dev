@@ -22,7 +22,7 @@
 
 ---
 
-## **CSE @ United International University | AI & Machine Learning Engineer | AI Research | Building Intelligent Systems | Start Early. Fail Often. Learn Faster.** ##
+### **CSE @ United International University | AI & Machine Learning Engineer | AI Research | Building Intelligent Systems | Start Early. Fail Often. Learn Faster.** ###
 
 ---
 
@@ -54,7 +54,7 @@
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
 ### I'm a **Computer Science & Engineering student at United International University (UIU)** focused on **AI & Machine Learning, Software Engineering, and AI Research**.
 
@@ -64,8 +64,8 @@
 
 ## 🎯 **Current Focus**
 
-###
-- 🤖 Building **AI Agents & intelligent AI systems**
+
+### - 🤖 Building **AI Agents & intelligent AI systems**
 - 🧠 Deepening knowledge in **Machine Learning & Deep Learning**
 - 👁️ Exploring **Computer Vision & LLM applications**
 - 🐍 Strengthening **Python & Software Engineering**
@@ -152,95 +152,109 @@
 </div>
 ---
 
-## 🧠 AI / ML Stack
+## 🧠 AI / Machine Learning
 
-### 🔬 Core ML & Data Science
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,pytorch,tensorflow,keras,opencv,jupyter" alt="Core ML Stack" />
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,opencv" />
+
 </p>
 
 <p align="center">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+
+</p>
+
+<p align="center">
+
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
 <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
-</p>
 
-### 🤖 Generative AI & LLM
-<p align="center">
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </p>
 
 ---
 
-## 💻 Software Engineering Stack
+## 🤖 Generative AI & AI Agents
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LLM%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Agents-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+
+</p>
+
+---
+
+## 💻 Software Engineering
 
 ### 👨‍💻 Programming Languages
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts" alt="Languages" />
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts" />
+
 </p>
 
 ### 🌐 Web & Backend
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi" alt="Web Stack" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi" />
+
 </p>
 
 <p align="center">
+
 <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+
 </p>
 
 ---
 
-## 🗄️ Databases & Cloud
+## 🗄️ Databases
 
-### 🗃️ Databases
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" alt="Databases" />
-</p>
 
-### ☁️ Cloud & Infrastructure
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,linux,aws,vercel" alt="Cloud & DevOps" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
+
 </p>
 
 ---
 
-## 🛠️ Developer Tools
+## ☁️ Cloud & DevOps
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Dev Tools" />
+
+<img src="https://skillicons.dev/icons?i=docker,linux,aws,vercel" />
+
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-</p>
-
----
-
-## 🧩 AI Engineering Toolkit
-
-<p align="center">
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20Agents-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-</p>
 ---
 
 ## 🛠️ Developer Tools
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,jupyter" />
+
 </p>
 
 <p align="center">
+
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+
 </p>
 
 ---
@@ -257,39 +271,19 @@
 
 </p>
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Model%20Tracking-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/API%20Development-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/API%20Documentation-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+<img src="https://img.shields.io/badge/Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+</p>
 ---
 
-## 🔬 Research Interests
 
-I'm particularly interested in applying AI to problems where intelligent systems can create meaningful real-world impact.
 
-```text
-Artificial Intelligence
-        │
-        ├── Machine Learning
-        │
-        ├── Deep Learning
-        │
-        ├── Computer Vision
-        │
-        ├── Generative AI
-        │
-        └── Large Language Models
-                    │
-                    ▼
-             Real-World AI
-                    │
-          ┌─────────┴─────────┐
-          ▼                   ▼
-      Healthcare           Automation
-          │                   │
-          └─────────┬─────────┘
-                    ▼
-              AI Research
-
-```
-
-## 🧭 My Engineering Direction
+# 🧭 My Engineering Direction
 
 <div align="center">
 
