@@ -62,10 +62,9 @@
 
 ### I'm also exploring **Computer Vision, LLM applications, Generative AI, and Medical AI**, with a long-term interest in applying AI to meaningful real-world problems and contributing to **high-impact research**.###
 
----
 
-## 🎯 **Current Focus**
----
+# 🎯 **Current Focus**
+
 ### - 🤖 Building **AI Agents & intelligent AI systems**
 ### - 🧠 Deepening knowledge in **Machine Learning & Deep Learning**
 ### - 👁️ Exploring **Computer Vision & LLM applications**
@@ -74,7 +73,7 @@
 ### - 🔬 Exploring **AI Research & Medical AI**
 ### - 🚀 Building and deploying **real-world AI-powered applications**
 ### - 📚 Developing skills for **research, production AI, and scalable systems 
----
+
 
 ## ⚡ What I Do
 
@@ -151,51 +150,36 @@
 </tr>
 </table>
 </div>
----
+
 
 ## 🧠 AI / Machine Learning
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,opencv" alt="AI Icons" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,keras" alt="AI Icons" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=numpy,pandas,scikitlearn,matplotlib" alt="AI Icons" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=mlflow,spacy" alt="AI Icons" />
 </p>
 
----
 
 ## 🤖 Generative AI & AI Agents
 
 <p align="center">
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=openai,langchain,llmengineer,aiagents" alt="AI Icons" />
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/LLM%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20Agents-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-</p>
-
----
 
 ## 💻 Software Engineering
-
-### 👨‍💻 Programming Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts" alt="Languages" />
 </p>
 
----
 
 ## 🗄️ Databases
 
@@ -203,7 +187,6 @@
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" alt="Databases" />
 </p>
 
----
 
 ## ☁️ Cloud & DevOps
 
@@ -211,19 +194,13 @@
 <img src="https://skillicons.dev/icons?i=docker,linux,aws,vercel" alt="Cloud & DevOps" />
 </p>
 
----
 
 ## 🛠️ Developer Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,jupyter" alt="Dev Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,googlecolab,postman,figma,jupyter" alt="Dev Tools" />
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-</p>
-
----
 
 ## 🧩 AI Engineering Toolkit
 
@@ -234,14 +211,12 @@
 <img src="https://img.shields.io/badge/LLM%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/AI%20Agents-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </p>
-
 <p align="center">
 <img src="https://img.shields.io/badge/Model%20Tracking-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
 <img src="https://img.shields.io/badge/API%20Development-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/API%20Documentation-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 <img src="https://img.shields.io/badge/Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
----
 
 
 
