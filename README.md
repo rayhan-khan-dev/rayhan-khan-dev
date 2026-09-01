@@ -62,18 +62,19 @@
 
 ### I'm also exploring **Computer Vision, LLM applications, Generative AI, and Medical AI**, with a long-term interest in applying AI to meaningful real-world problems and contributing to **high-impact research**.###
 
+---
+
 ## 🎯 **Current Focus**
-
-
+---
 ### - 🤖 Building **AI Agents & intelligent AI systems**
-- 🧠 Deepening knowledge in **Machine Learning & Deep Learning**
-- 👁️ Exploring **Computer Vision & LLM applications**
-- 🐍 Strengthening **Python & Software Engineering**
-- 🧩 Practicing **Data Structures & Algorithms**
-- 🔬 Exploring **AI Research & Medical AI**
-- 🚀 Building and deploying **real-world AI-powered applications**
-- 📚 Developing skills for **research, production AI, and scalable systems ###
-
+### - 🧠 Deepening knowledge in **Machine Learning & Deep Learning**
+### - 👁️ Exploring **Computer Vision & LLM applications**
+### - 🐍 Strengthening **Python & Software Engineering**
+### - 🧩 Practicing **Data Structures & Algorithms**
+### - 🔬 Exploring **AI Research & Medical AI**
+### - 🚀 Building and deploying **real-world AI-powered applications**
+### - 📚 Developing skills for **research, production AI, and scalable systems 
+---
 
 ## ⚡ What I Do
 
@@ -155,25 +156,19 @@
 ## 🧠 AI / Machine Learning
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,opencv" />
-
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,opencv" alt="AI Icons" />
 </p>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-
 </p>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
 <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
-
 </p>
 
 ---
@@ -181,17 +176,13 @@
 ## 🤖 Generative AI & AI Agents
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-
 </p>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/LLM%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/AI%20Agents-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-
 </p>
 
 ---
@@ -201,24 +192,7 @@
 ### 👨‍💻 Programming Languages
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts" />
-
-</p>
-
-### 🌐 Web & Backend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts" alt="Languages" />
 </p>
 
 ---
@@ -226,9 +200,7 @@
 ## 🗄️ Databases
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
-
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" alt="Databases" />
 </p>
 
 ---
@@ -236,9 +208,7 @@
 ## ☁️ Cloud & DevOps
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,linux,aws,vercel" />
-
+<img src="https://skillicons.dev/icons?i=docker,linux,aws,vercel" alt="Cloud & DevOps" />
 </p>
 
 ---
@@ -246,15 +216,11 @@
 ## 🛠️ Developer Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,jupyter" />
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,jupyter" alt="Dev Tools" />
 </p>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-
 </p>
 
 ---
@@ -262,22 +228,18 @@
 ## 🧩 AI Engineering Toolkit
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/LLM%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/AI%20Agents-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-
 </p>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Model%20Tracking-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
 <img src="https://img.shields.io/badge/API%20Development-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/API%20Documentation-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 <img src="https://img.shields.io/badge/Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
 </p>
 ---
 
@@ -313,24 +275,21 @@
 
 ---
 
-
 ## 📊 GitHub Analytics
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=rayhan-khan-dev&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan-khan-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-
 ## 🔥 GitHub Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=rayhan-khan-dev&theme=tokyonight&hide_border=true" /> </div>
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rayhan-khan-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ## 🐍 Contribution Graph
 <div align="center">
   <img src="https://raw.githubusercontent.com/rayhan-khan-dev/rayhan-khan-dev/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </div>
-
-
 
 <div align="center">
 
