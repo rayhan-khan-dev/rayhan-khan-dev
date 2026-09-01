@@ -252,8 +252,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rayhan-khan-dev&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan-khan-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=rayhan-khan-dev&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rayhan-khan-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🔥 GitHub Streak
