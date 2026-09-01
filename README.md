@@ -22,7 +22,7 @@
 
 ---
 
-##**CSE @ United International University | AI & Machine Learning Engineer | AI Research | Building Intelligent Systems | Start Early. Fail Often. Learn Faster.**##
+## **CSE @ United International University | AI & Machine Learning Engineer | AI Research | Building Intelligent Systems | Start Early. Fail Often. Learn Faster.** ##
 
 ---
 
@@ -58,22 +58,22 @@
 
 ### I'm a **Computer Science & Engineering student at United International University (UIU)** focused on **AI & Machine Learning, Software Engineering, and AI Research**.
 
-I build intelligent systems by combining **machine learning, deep learning, software engineering, and problem-solving**. My current work focuses on developing **AI Agents, ML-powered applications, and production-oriented AI systems** while strengthening my foundation in **Python, Data Structures & Algorithms, and software engineering**.
+### I build intelligent systems by combining **machine learning, deep learning, software engineering, and problem-solving**. My current work focuses on developing **AI Agents, ML-powered applications, and production-oriented AI systems** while strengthening my foundation in **Python, Data Structures & Algorithms, and software engineering**.
 
-I'm also exploring **Computer Vision, LLM applications, Generative AI, and Medical AI**, with a long-term interest in applying AI to meaningful real-world problems and contributing to **high-impact research**.###
+### I'm also exploring **Computer Vision, LLM applications, Generative AI, and Medical AI**, with a long-term interest in applying AI to meaningful real-world problems and contributing to **high-impact research**.###
 
 ## 🎯 **Current Focus**
 
-###- 🤖 Building **AI Agents & intelligent AI systems**
+###
+- 🤖 Building **AI Agents & intelligent AI systems**
 - 🧠 Deepening knowledge in **Machine Learning & Deep Learning**
 - 👁️ Exploring **Computer Vision & LLM applications**
 - 🐍 Strengthening **Python & Software Engineering**
 - 🧩 Practicing **Data Structures & Algorithms**
 - 🔬 Exploring **AI Research & Medical AI**
 - 🚀 Building and deploying **real-world AI-powered applications**
-- 📚 Developing skills for **research, production AI, and scalable systems**###
+- 📚 Developing skills for **research, production AI, and scalable systems ###
 
----
 
 ## ⚡ What I Do
 
@@ -154,19 +154,18 @@ I'm also exploring **Computer Vision, LLM applications, Generative AI, and Medic
 
 ## 🧠 AI / ML Stack
 
+### 🔬 Core ML & Data Science
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,pytorch,tensorflow,keras,opencv" />
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,pytorch,tensorflow,keras,opencv,jupyter" alt="Core ML Stack" />
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=jupyter" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
 <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
 </p>
 
 ### 🤖 Generative AI & LLM
-
 <p align="center">
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
@@ -177,15 +176,13 @@ I'm also exploring **Computer Vision, LLM applications, Generative AI, and Medic
 ## 💻 Software Engineering Stack
 
 ### 👨‍💻 Programming Languages
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts" alt="Languages" />
 </p>
 
 ### 🌐 Web & Backend
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi" alt="Web Stack" />
 </p>
 
 <p align="center">
@@ -198,17 +195,40 @@ I'm also exploring **Computer Vision, LLM applications, Generative AI, and Medic
 ## 🗄️ Databases & Cloud
 
 ### 🗃️ Databases
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" alt="Databases" />
 </p>
 
 ### ☁️ Cloud & Infrastructure
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,linux,aws,vercel" />
+<img src="https://skillicons.dev/icons?i=docker,linux,aws,vercel" alt="Cloud & DevOps" />
 </p>
 
+---
+
+## 🛠️ Developer Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Dev Tools" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+</p>
+
+---
+
+## 🧩 AI Engineering Toolkit
+
+<p align="center">
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Agents-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+</p>
 ---
 
 ## 🛠️ Developer Tools
@@ -285,7 +305,7 @@ Artificial Intelligence
 
 ## 🔬 Research Interests
 
-My research interests are centered around applying **Artificial Intelligence to real-world problems**, particularly in domains where intelligent systems can create meaningful impact.
+### My research interests are centered around applying **Artificial Intelligence to real-world problems**, particularly in domains where intelligent systems can create meaningful impact. ###
 
 <p align="center">
 
@@ -317,11 +337,11 @@ My research interests are centered around applying **Artificial Intelligence to 
 </div>
 
 
-```
+
 <div align="center">
 
 ## Don't just learn technology. Build with it.
 
 ## Learn → Build → Break → Debug → Research → Improve → Repeat
 </div>
-```
+
