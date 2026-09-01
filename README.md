@@ -1,6 +1,6 @@
 <div align="center">
 
-#  I'm Rayhan Khan
+# I'm Rayhan Khan
 
 ### 🤖 AI Engineer • 💻 Software Engineer • 🔬 AI Researcher
 
@@ -22,48 +22,43 @@
 
 ---
 
-### **CSE @ United International University | AI & Machine Learning Engineer | AI Research | Building Intelligent Systems | Start Early. Fail Often. Learn Faster.** ###
+### **CSE @ United International University | AI & Machine Learning Engineer | AI Research | Building Intelligent Systems | Start Early. Fail Often. Learn Faster.**
 
 ---
 
 ## 🌐 Socials
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/rayhan-khan-dev/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="https://leetcode.com/u/rayhan-khan-dev/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
-
 <a href="mailto:rayhankhanofficial24@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://instagram.com/iniq_uitous_2" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
 <a href="https://www.facebook.com/share/1bQEJodZ6L/" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-
 </p>
 
 ---
 
-# 🧠 About Me
+## 🧠 About Me
 
 ### I'm a **Computer Science & Engineering student at United International University (UIU)** focused on **AI & Machine Learning, Software Engineering, and AI Research**.
 
 ### I build intelligent systems by combining **machine learning, deep learning, software engineering, and problem-solving**. My current work focuses on developing **AI Agents, ML-powered applications, and production-oriented AI systems** while strengthening my foundation in **Python, Data Structures & Algorithms, and software engineering**.
 
-### I'm also exploring **Computer Vision, LLM applications, Generative AI, and Medical AI**, with a long-term interest in applying AI to meaningful real-world problems and contributing to **high-impact research**.###
+### I'm also exploring **Computer Vision, LLM applications, Generative AI, and Medical AI**, with a long-term interest in applying AI to meaningful real-world problems and contributing to **high-impact research**.
 
+---
 
-# 🎯 **Current Focus**
+## 🎯 Current Focus
 
 ### - 🤖 Building **AI Agents & intelligent AI systems**
 ### - 🧠 Deepening knowledge in **Machine Learning & Deep Learning**
@@ -72,8 +67,9 @@
 ### - 🧩 Practicing **Data Structures & Algorithms**
 ### - 🔬 Exploring **AI Research & Medical AI**
 ### - 🚀 Building and deploying **real-world AI-powered applications**
-### - 📚 Developing skills for **research, production AI, and scalable systems 
+### - 📚 Developing skills for **research, production AI, and scalable systems**
 
+---
 
 ## ⚡ What I Do
 
@@ -96,7 +92,6 @@
 </ul>
 
 </td>
-
 <td width="50%" valign="top">
 
 <h3>💻 Software Engineering</h3>
@@ -114,9 +109,7 @@
 
 </td>
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
 <h3>🔬 AI Research</h3>
@@ -131,7 +124,6 @@
 </ul>
 
 </td>
-
 <td width="50%" valign="top">
 
 <h3>🚀 Building</h3>
@@ -146,13 +138,43 @@
 </ul>
 
 </td>
-
 </tr>
 </table>
 </div>
 
+---
 
-## 🧠 AI / Machine Learning
+## 🧭 My Engineering Direction
+
+<div align="center">
+
+### Data → Intelligence → Software → Deployment → Impact
+
+<br>
+
+`Python` → `ML/DL` → `AI Agents` → `APIs` → `Production AI`
+
+</div>
+
+---
+
+## 🔬 Research Interests
+
+### My research interests are centered around applying **Artificial Intelligence to real-world problems**, particularly in domains where intelligent systems can create meaningful impact.
+
+<p align="center">
+<img src="https://img.shields.io/badge/Medical_AI-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deep_Learning-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer_Vision-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative_AI-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI_Agents-F59E0B?style=for-the-badge" />
+</p>
+
+---
+
+## 🛠️ Skills & Tech Stack
+
+### 🧠 AI / Machine Learning
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" alt="AI Core Icons" />
@@ -171,7 +193,7 @@
 <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
 </p>
 
-## 🤖 Generative AI & AI Agents
+### 🤖 Generative AI & AI Agents
 
 <p align="center">
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -180,35 +202,7 @@
 <img src="https://img.shields.io/badge/AI%20Agents-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </p>
 
-## 💻 Software Engineering
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts" alt="Programming Languages" />
-</p>
-
-## 🗄️ Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" alt="Databases" />
-</p>
-
-## ☁️ Cloud & DevOps
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,linux,aws,vercel" alt="Cloud & DevOps" />
-</p>
-
-## 🛠️ Developer Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,jupyter" alt="Developer Tools" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-</p>
-
-## 🧩 AI Engineering Toolkit
+### 🧩 AI Engineering Toolkit
 
 <p align="center">
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" />
@@ -225,58 +219,61 @@
 <img src="https://img.shields.io/badge/Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-
-
-# 🧭 My Engineering Direction
-
-<div align="center">
-
-### Data → Intelligence → Software → Deployment → Impact
-
-<br>
-
-`Python` → `ML/DL` → `AI Agents` → `APIs` → `Production AI`
-
-</div>
-
----
-
-## 🔬 Research Interests
-
-### My research interests are centered around applying **Artificial Intelligence to real-world problems**, particularly in domains where intelligent systems can create meaningful impact. ###
+### 💻 Software Engineering
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts" alt="Programming Languages" />
+</p>
 
-<img src="https://img.shields.io/badge/Medical_AI-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Deep_Learning-FF6B6B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Computer_Vision-0EA5E9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Generative_AI-10B981?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI_Agents-F59E0B?style=for-the-badge" />
+### 🗄️ Databases
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" alt="Databases" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,linux,aws,vercel" alt="Cloud & DevOps" />
+</p>
+
+### 🛠️ Developer Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,jupyter" alt="Developer Tools" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
 ---
 
 ## 📊 GitHub Analytics
+
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=rayhan-khan-dev&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan-khan-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🔥 GitHub Streak
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rayhan-khan-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🐍 Contribution Graph
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/rayhan-khan-dev/rayhan-khan-dev/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </div>
+
+<br>
 
 <div align="center">
 
 ## Don't just learn technology. Build with it.
 
 ## Learn → Build → Break → Debug → Research → Improve → Repeat
-</div>
 
+</div>
