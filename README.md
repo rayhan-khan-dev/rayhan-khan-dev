@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/e544a3e1-561e-41bc-9912-92bec1835481" />
+  <img src="https://i.imgur.com/BwAQwSh.gif" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
