@@ -240,7 +240,7 @@
 ### 🛠️ Developer Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,jupyter" alt="Developer Tools" />
+ <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,jupyter" alt="Developer Tools" />
 </p>
 
 <p align="center">
@@ -272,8 +272,8 @@
 
 <div align="center">
 
-## Don't just learn technology. Build with it.
+### Don't just learn technology. Build with it.
 
-## Learn → Build → Break → Debug → Research → Improve → Repeat
+### Learn → Build → Break → Debug → Research → Improve → Repeat
 
 </div>
