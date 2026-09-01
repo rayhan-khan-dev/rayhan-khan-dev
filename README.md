@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="banner.gif" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/rayhan-khan-dev/rayhan-khan-dev/main/header-banner.gif" width="100%" alt="Header Banner" />
 </div>
-
 <br>
 
 <div align="center">
