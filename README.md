@@ -1,10 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/BwAQwSh.gif" width="100%" alt="Header Banner" />
-</div>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="0" height="0" />
-  <img src="https://assets.website-files.com/5f9a6566da2857022db2d863/5f9d1469e776e070868f066b_cyber-stream.gif" width="100%" alt="Cyber Terminal Stream" />
+  <img src="https://raw.githubusercontent.com/rayhan-khan-dev/rayhan-khan-dev/main/cyber.png" width="100%" alt="Cyber Banner" />
 </div>
 
 <div align="center">
