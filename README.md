@@ -2,10 +2,9 @@
   <img src="https://i.imgur.com/BwAQwSh.gif" width="100%" alt="Header Banner" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:0F172A,100:003B46&height=180&section=header&text=Rayhan%20Khan&fontSize=42&fontColor=38BDF8&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Software%20Systems%20%E2%80%A2%20Intelligent%20Agents&descAlignY=62&descSize=16&descColor=94A3B8" width="100%" alt="Header Wave" />
+<<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer Matrix Stream" />
 </div>
-
 
 <div align="center">
 
