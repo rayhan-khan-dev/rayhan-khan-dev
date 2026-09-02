@@ -2,8 +2,8 @@
   <img src="https://i.imgur.com/BwAQwSh.gif" width="100%" alt="Header Banner" />
 </div>
 
-<<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer Matrix Stream" />
+<div align="center">
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="100%" alt="Coding Aesthetic Loop" />
 </div>
 
 <div align="center">
