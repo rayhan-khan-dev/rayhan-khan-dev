@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=00F5D4&background=0D111700&center=true&vCenter=true&width=800&height=65&lines=rayhan%40engineer%3A~%24+whoami;%3E+AI+%26+Software+Engineer+%7C+AI+Researcher;rayhan%40engineer%3A~%24+cat+current_focus.txt;%3E+Building+Autonomous+AI+Agents+%26+Production+ML;rayhan%40engineer%3A~%24+status;%3E+Optimizing+Neural+Architectures+%26+Scalable+Backends;%3E+Start+Early.+Fail+Often.+Learn+Faster." alt="Rayhan Terminal Typings" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:0F172A,100:003B46&height=180&section=header&text=Rayhan%20Khan&fontSize=42&fontColor=38BDF8&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Software%20Systems%20%E2%80%A2%20Intelligent%20Agents&descAlignY=62&descSize=16&descColor=94A3B8" width="100%" alt="Header Wave" />
 </div>
 
 
