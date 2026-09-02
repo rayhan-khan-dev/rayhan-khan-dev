@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rayhan-khan-dev/rayhan-khan-dev/main/cyber.png" width="100%" alt="Cyber Banner" />
-</div>
+
 
 <div align="center">
 
